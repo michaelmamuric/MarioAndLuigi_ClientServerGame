@@ -1,6 +1,3 @@
-The project is 100% complete.
+Mario and Luigi Dash is a two-player game. The goal is simple: reach the finish line before your opponent.
 
-The following components are working:
-- Clients can play the game concurrently
-- Clients are prompted to play again after each game
-- Chat functionality is working
+This program was written in Java, and uses sockets and multithreading learned in the CPRG311: Advanced Object-Oriented Programming class at SAIT Polytechnic. This game also allows the two players to chat with each other before, during, and after the game.
