@@ -1,0 +1,24 @@
+.welcome, .server {
+	-fx-font-size:20px;
+	-fx-font-weight:bold
+}
+
+.p1, .p2 {
+	-fx-font-weight:bold;
+}
+
+.p1, .p1Top { 
+	-fx-text-fill: red
+}
+
+.p2, .p2Top {
+	-fx-text-fill: green
+}
+
+.topBar {
+ 	-fx-background-color: transparent;
+    -fx-font-weight: bold;
+	-fx-font-size: 11pt;
+	-fx-alignment: center;
+	-fx-text-fill: black;
+}
